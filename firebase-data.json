@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "title": "electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31IGgQ4zGnk07Cr6YiBJiKO4fuRir1qGL5w&usqp=CAU"
+    },
+    {
+      "title": "appliances",
+      "image": "https://www.gannett-cdn.com/presto/2020/06/27/USAT/2b50ff33-dff6-46cb-8082-044e2a0bc6c0-appliances.jpg?crop=1683,1262,x283,y0&quality=50&width=640"
+    },
+    {
+      "title": "furniture",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/amazon-rivet-furniture-1533048038.jpg?crop=1.00xw:0.502xh;0,0.423xh&resize=1200:*"
+    }
+  ],
+  "items": [
+    {
+      "title": "G502 HERO mouse",
+      "image": "https://www.mall.cz/i/41522784/1000/1000",
+      "categories": "electronics"
+    },
+    {
+      "title": "G102 LightSync",
+      "image": "https://www.mall.cz/i/47716194/2000/2000",
+      "categories": "electronics"
+    },
+    {
+      "title": "Samsung C24F390FHU monitor",
+      "image": "https://www.mall.cz/i/31720594/2000/2000",
+      "categories": "electronics"
+    },
+    {
+      "title": "Electrolux ESTM3300",
+      "image": "https://www.mall.cz/i/40600840/2000/2000",
+      "categories": "appliances"
+    },
+    {
+      "title": "ECG RS 836",
+      "image": "https://www.mall.cz/i/15762182/1000/1000",
+      "categories": "appliances"
+    },
+    {
+      "title": "Electrolux ESM3310 ročni mešalnik",
+      "image": "https://www.mall.cz/i/36138182/1000/1000",
+      "categories": "appliances"
+    },
+    {
+      "title": "VonHaus work table(3500156)",
+      "image": "https://www.mall.cz/i/41195138/2000/2000",
+      "categories": "furniture"
+    },
+    {
+      "title": "VonHaus work table(3500156)",
+      "image": "https://www.mall.cz/i/41195138/2000/2000",
+      "categories": "furniture"
+    },
+    {
+      "title": "Portoss children seat",
+      "image": "https://www.mall.cz/i/53218693/1000/1000",
+      "categories": "furniture"
+    }
+  ]
+}
