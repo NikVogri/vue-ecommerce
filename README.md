@@ -1,24 +1,40 @@
-# vue_ecommerce
+# Configuration
 
-## Project setup
+## Getting placeholder data
+
+1. Create new firebase project
+2. Upload firebase-data.json to your firebase database
+
+## Setting up authentication
+
+1. Enable email and password authentication on firebase
+
+## Setting up environmental variables
+
+1. Create .env file or edit the .env.example (remove .example -> from .env.example)
+2. Get app API key and database url
+
+# Installing dependencies
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+or
+
 ```
-yarn serve
+npm install
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Todo
 
-### Lints and fixes files
-```
-yarn lint
-```
+- Better styling
+- Mobile responsiveness
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Technologies
+
+- Vue
+- VueX
+- Vue Router
+- Tailwind
+- Firebase database & authentication
