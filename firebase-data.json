@@ -16,48 +16,67 @@
   "items": [
     {
       "title": "G502 HERO mouse",
+      "slug": "g502-hero-mouse",
       "image": "https://www.mall.cz/i/41522784/1000/1000",
-      "categories": "electronics"
+      "categories": "electronics",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum leo, sagittis id augue convallis, efficitur posuere metus.",
+      "price": 49.99
     },
     {
       "title": "G102 LightSync",
+      "slug": "g102-lightsync",
       "image": "https://www.mall.cz/i/47716194/2000/2000",
-      "categories": "electronics"
+      "categories": "electronics",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum leo, sagittis id augue convallis, efficitur posuere metus.",
+      "price": 39.99
     },
     {
       "title": "Samsung C24F390FHU monitor",
+      "slug": "samsung-c24f390fhu-monitor",
       "image": "https://www.mall.cz/i/31720594/2000/2000",
-      "categories": "electronics"
+      "categories": "electronics",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum leo, sagittis id augue convallis, efficitur posuere metus.",
+      "price": 259.99
     },
     {
-      "title": "Electrolux ESTM3300",
+      "title": "Electrolux ESTM3300 Hand Mixer",
+      "slug": "electrolux-estm3300-hand-mixer",
       "image": "https://www.mall.cz/i/40600840/2000/2000",
-      "categories": "appliances"
+      "categories": "appliances",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum leo, sagittis id augue convallis, efficitur posuere metus.",
+      "price": 149.99
     },
     {
-      "title": "ECG RS 836",
+      "title": "ECG RS 836 Hand Mixer",
+      "slug": "electrolux-estm3300-hand-mixer",
       "image": "https://www.mall.cz/i/15762182/1000/1000",
-      "categories": "appliances"
+      "categories": "appliances",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum leo, sagittis id augue convallis, efficitur posuere metus.",
+      "price": 64.99
     },
     {
-      "title": "Electrolux ESM3310 ročni mešalnik",
+      "title": "Electrolux ESM3310 hand mixer",
+      "slug": "electrolux-esm3310-hand-mixer",
       "image": "https://www.mall.cz/i/36138182/1000/1000",
-      "categories": "appliances"
+      "categories": "appliances",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum leo, sagittis id augue convallis, efficitur posuere metus.",
+      "price": 209.99
     },
     {
-      "title": "VonHaus work table(3500156)",
+      "title": "VonHaus work table",
+      "slug": "vonhaus-work-table",
       "image": "https://www.mall.cz/i/41195138/2000/2000",
-      "categories": "furniture"
-    },
-    {
-      "title": "VonHaus work table(3500156)",
-      "image": "https://www.mall.cz/i/41195138/2000/2000",
-      "categories": "furniture"
+      "categories": "furniture",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum leo, sagittis id augue convallis, efficitur posuere metus.",
+      "price": 349.99
     },
     {
       "title": "Portoss children seat",
+      "slug": "portoss-children-seat",
       "image": "https://www.mall.cz/i/53218693/1000/1000",
-      "categories": "furniture"
+      "categories": "furniture",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum leo, sagittis id augue convallis, efficitur posuere metus.",
+      "price": 29.99
     }
   ]
 }
